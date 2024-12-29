@@ -1,0 +1,471 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\views\\doctor\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\views\\doctor\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\views\\patient\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\views\\patient\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\views\\appointment\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\views\\appointment\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\views\\appointment\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\views\\appointment\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\reprositories\\appointmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\reprositories\\appointmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\reprositories\\interface\\iappointmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\reprositories\\interface\\iappointmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\views\\appointment\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\views\\appointment\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\views\\appointment\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\views\\appointment\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\viewmodels\\appointmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\viewmodels\\appointmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\reprositories\\interface\\ipatientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\reprositories\\interface\\ipatientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\hospital.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\hospital.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\reprositories\\patientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\reprositories\\patientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\reprositories\\doctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\reprositories\\doctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\reprositories\\interface\\idoctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\reprositories\\interface\\idoctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|c:\\users\\jana.mostafa\\desktop\\habit\\habit\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57798F47-4919-4B7C-8876-A0A5A24E9DE7}|Habit\\Hospital.csproj|solutionrelative:habit\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Views\\Appointment\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Habit\\Views\\Appointment\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Views\\Appointment\\Edit.cshtml",
+              "RelativeToolTip": "Habit\\Views\\Appointment\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T23:18:08.416Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Dockerfile",
+              "RelativeDocumentMoniker": "Habit\\Dockerfile",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Dockerfile",
+              "RelativeToolTip": "Habit\\Dockerfile",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-26T05:33:02.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Views\\Doctor\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "Habit\\Views\\Doctor\\GetAll.cshtml",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Views\\Doctor\\GetAll.cshtml",
+              "RelativeToolTip": "Habit\\Views\\Doctor\\GetAll.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T23:35:16.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Views\\Appointment\\Create.cshtml",
+              "RelativeDocumentMoniker": "Habit\\Views\\Appointment\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Views\\Appointment\\Create.cshtml",
+              "RelativeToolTip": "Habit\\Views\\Appointment\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T22:03:45.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppointmentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\ViewModels\\AppointmentViewModel.cs",
+              "RelativeDocumentMoniker": "Habit\\ViewModels\\AppointmentViewModel.cs",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\ViewModels\\AppointmentViewModel.cs",
+              "RelativeToolTip": "Habit\\ViewModels\\AppointmentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:46:23.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Hospital.csproj",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Hospital.csproj",
+              "RelativeDocumentMoniker": "Habit\\Hospital.csproj",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Hospital.csproj",
+              "RelativeToolTip": "Habit\\Hospital.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-25T21:45:55.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Views\\Appointment\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "Habit\\Views\\Appointment\\GetAll.cshtml",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Views\\Appointment\\GetAll.cshtml",
+              "RelativeToolTip": "Habit\\Views\\Appointment\\GetAll.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAC8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T21:43:43.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\appsettings.json",
+              "RelativeDocumentMoniker": "Habit\\appsettings.json",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\appsettings.json",
+              "RelativeToolTip": "Habit\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T17:28:05.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Views\\Appointment\\Details.cshtml",
+              "RelativeDocumentMoniker": "Habit\\Views\\Appointment\\Details.cshtml",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Views\\Appointment\\Details.cshtml",
+              "RelativeToolTip": "Habit\\Views\\Appointment\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T23:25:01.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Views\\Appointment\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Habit\\Views\\Appointment\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Views\\Appointment\\Delete.cshtml",
+              "RelativeToolTip": "Habit\\Views\\Appointment\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T23:32:53.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Habit\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Habit\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwFEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:41:29.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Views\\Patient\\Create.cshtml",
+              "RelativeDocumentMoniker": "Habit\\Views\\Patient\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Views\\Patient\\Create.cshtml",
+              "RelativeToolTip": "Habit\\Views\\Patient\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T20:01:54.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Views\\Patient\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "Habit\\Views\\Patient\\GetAll.cshtml",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Views\\Patient\\GetAll.cshtml",
+              "RelativeToolTip": "Habit\\Views\\Patient\\GetAll.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:58:52.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Habit\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Habit\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:55:31.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Views\\Doctor\\Create.cshtml",
+              "RelativeDocumentMoniker": "Habit\\Views\\Doctor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Views\\Doctor\\Create.cshtml",
+              "RelativeToolTip": "Habit\\Views\\Doctor\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:44:02.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Habit\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Habit\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:00:37.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAppointmentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Reprositories\\Interface\\IAppointmentRepo.cs",
+              "RelativeDocumentMoniker": "Habit\\Reprositories\\Interface\\IAppointmentRepo.cs",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Reprositories\\Interface\\IAppointmentRepo.cs",
+              "RelativeToolTip": "Habit\\Reprositories\\Interface\\IAppointmentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:00:37.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPatientRepo.cs",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Reprositories\\Interface\\IPatientRepo.cs",
+              "RelativeDocumentMoniker": "Habit\\Reprositories\\Interface\\IPatientRepo.cs",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Reprositories\\Interface\\IPatientRepo.cs",
+              "RelativeToolTip": "Habit\\Reprositories\\Interface\\IPatientRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:00:25.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IDoctorRepo.cs",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Reprositories\\Interface\\IDoctorRepo.cs",
+              "RelativeDocumentMoniker": "Habit\\Reprositories\\Interface\\IDoctorRepo.cs",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Reprositories\\Interface\\IDoctorRepo.cs",
+              "RelativeToolTip": "Habit\\Reprositories\\Interface\\IDoctorRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:00:10.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppointmentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Reprositories\\AppointmentRepo.cs",
+              "RelativeDocumentMoniker": "Habit\\Reprositories\\AppointmentRepo.cs",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Reprositories\\AppointmentRepo.cs",
+              "RelativeToolTip": "Habit\\Reprositories\\AppointmentRepo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:59:55.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PatientRepo.cs",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Reprositories\\PatientRepo.cs",
+              "RelativeDocumentMoniker": "Habit\\Reprositories\\PatientRepo.cs",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Reprositories\\PatientRepo.cs",
+              "RelativeToolTip": "Habit\\Reprositories\\PatientRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwBIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:59:40.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DoctorRepo.cs",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Reprositories\\DoctorRepo.cs",
+              "RelativeDocumentMoniker": "Habit\\Reprositories\\DoctorRepo.cs",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Reprositories\\DoctorRepo.cs",
+              "RelativeToolTip": "Habit\\Reprositories\\DoctorRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:59:29.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Habit\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Habit\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:49:14.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Habit\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Habit\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:33:44.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Habit\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Models\\Appointment.cs",
+              "RelativeToolTip": "Habit\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:30:09.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Habit\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Models\\Patient.cs",
+              "RelativeToolTip": "Habit\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:29:42.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Habit\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Models\\Doctor.cs",
+              "RelativeToolTip": "Habit\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:27:26.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Program.cs",
+              "RelativeDocumentMoniker": "Habit\\Program.cs",
+              "ToolTip": "C:\\Users\\jana.mostafa\\Desktop\\Habit\\Habit\\Program.cs",
+              "RelativeToolTip": "Habit\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:21:28.665Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
